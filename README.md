@@ -1,5 +1,7 @@
 # 🥗 CraveBetter — Cozy, Shame-Free Indian Craving Swaps
 
+**Live Demo**: 👉 **[https://sof-codes.github.io/CraveBetter/](https://sof-codes.github.io/CraveBetter/)**
+
 Welcome to **CraveBetter**, a mindful, shame-free craving companion designed to offer warm comfort, decode what your body seeks, and suggest pocket-friendly, culturally relevant Indian food alternatives.
 
 This is a premium, polished React + TypeScript + Vite single-page application built with **Vanilla CSS** and rich, responsive aesthetics. It is lightweight, 100% type-safe, and fully optimized for development and production.
